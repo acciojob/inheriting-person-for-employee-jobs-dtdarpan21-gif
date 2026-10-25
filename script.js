@@ -1,6 +1,6 @@
 // complete this js code
 class Person {
-	constuctor(name,age)
+	constructor(name,age)
 	this.name = name;
 	this .age = age;
 
@@ -23,7 +23,7 @@ const person = new Person("Alice", 25);
 person.greet();
 
 const employee = new Employee("Bob", 30, "Manager");
-employee.greet();
+
 employee.jobGreet();
 
 // Do not change code below this line
